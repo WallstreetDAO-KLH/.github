@@ -21,7 +21,7 @@ We love squad vibes and teamwork. Here’s how you can jump in:
 ## 🍿 Fun Facts
 - Our squad is made up of students from all sorts of majors, making it a super diverse crew.
 - We throw themed events and hackathons that are absolute bangers.
-- Popcorn is our go-to snack during brainstorming sessions!
+- Snickers is our go-to snack during brainstorming sessions!
 
 ## 🧙 Pro Tip
 You can do some epic stuff with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Join the Web3 wave with The WallStreet DAO!
