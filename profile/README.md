@@ -24,5 +24,7 @@ We love squad vibes and teamwork. Here’s how you can jump in:
 - We throw themed events and hackathons that are absolute bangers.
 - Snickers is our go-to snack during brainstorming sessions!
 
+![Animated GIF](https://pa1.aminoapps.com/7448/5cfe5634aede8bc743c379e715aa52a6ba15318cr1-500-282_hq.gif)
+
 ## 🧙 Pro Tip
 You can do some epic stuff with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Join the Web3 wave with The WallStreet DAO!
