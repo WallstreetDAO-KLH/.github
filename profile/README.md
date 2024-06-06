@@ -1,4 +1,4 @@
-# What's Up! 👋
+# GM Fam! 👋
 
 Welcome to **The WallStreet DAO**, the coolest Web3 and finance crew at KL University Hyderabad!
 ![Animated GIF](https://media0.giphy.com/media/29oib9M907xJP2Alga/giphy.gif?cid=6c09b952pc4hfusu3ag9gk94q67wb9agjf7va5vgq0576u65&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
