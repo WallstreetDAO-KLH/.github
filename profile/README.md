@@ -4,6 +4,10 @@ Welcome to **The WallStreet DAO**, the coolest Web3 and finance crew at KL Unive
 ![Animated GIF](https://media0.giphy.com/media/29oib9M907xJP2Alga/giphy.gif?cid=6c09b952pc4hfusu3ag9gk94q67wb9agjf7va5vgq0576u65&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 ## 🙋‍♀️ Who We Are
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=Ff00e6&width=380&height=45&lines=All+things+Web3;WEB3+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things;WEB3+Enthusiast;Nice+To+Meet+You+...;Blockchain&center=true">
+</p>
+
 The WallStreet DAO is a lit student club at KL University, Hyderabad, where Web3 tech meets finance. We're a DAO (Decentralized Autonomous Organization) which means we're all about that blockchain life, giving our members the power to learn, collab, and innovate in finance.
 
 ## 🌈 How to Join the Party
