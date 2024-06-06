@@ -8,7 +8,7 @@ The WallStreet DAO is a lit student club at KL University, Hyderabad, where Web3
 
 ## 🌈 How to Join the Party
 We love squad vibes and teamwork. Here’s how you can jump in:
-
+![Animated GIF](https://media3.giphy.com/media/7whm31rMz0t9yB42Tp/giphy.gif?cid=6c09b952tfwd5qom442tk9ptrunx31hfrc1y0yvheng1enpx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 - **Hang Out at Meetings**: Join our regular meetups and dive into talks about Web3, blockchain, and finance.
 - **Jump on Projects**: Get your hands dirty with dope projects that mix Web3 tech with finance.
 - **Share the Knowledge**: Lead or join workshops and seminars to learn and teach cool stuff.
