@@ -15,6 +15,7 @@ We love squad vibes and teamwork. Here’s how you can jump in:
 - **Get Social**: Hit up our online forums and social channels to stay in the loop and chat with the crew.
 
 ## 👩‍💻 Must-Have Links
+![Animated GIF](https://i.pinimg.com/originals/7c/ae/26/7cae265dad74e3dd6a351e27f0f2a090.gif)
 - [Docs & Guides](#): Everything you need to know to get started with Web3 and finance.
 - [Our Projects](#): Check out our open-source projects and pitch in.
 - [Community Chat](#): Join the convo, ask questions, and share your ideas.
