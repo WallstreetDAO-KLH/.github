@@ -29,6 +29,7 @@ We love squad vibes and teamwork. Here’s how you can jump in:
 - Our squad is made up of students from all sorts of majors, making it a super diverse crew.
 - We throw themed events and hackathons that are absolute bangers.
 - Snickers is our go-to snack during brainstorming sessions!
+- Coffee makes zombies write code. 
 
 <p align="center">  <img src="https://pa1.aminoapps.com/7448/5cfe5634aede8bc743c379e715aa52a6ba15318cr1-500-282_hq.gif" alt="Animated GIF">
 </p>
